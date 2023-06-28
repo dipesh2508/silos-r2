@@ -13,9 +13,7 @@ const Hero = () => {
           We provide innovative and eco-friendly solutions for sustainable agriculture practices.
         </p>
         <a
-          href="#"
-          className="bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-md text-lg font-medium transition duration-300"
-        >
+          href="#" className="bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-md text-lg font-medium transition duration-300">
           Learn More
         </a>
       </div>
