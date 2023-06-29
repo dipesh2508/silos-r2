@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/silos-r2/static/css/main.421909f6.css",
+    "main.js": "/silos-r2/static/js/main.0a199d0b.js",
+    "static/js/787.deb36ba5.chunk.js": "/silos-r2/static/js/787.deb36ba5.chunk.js",
+    "static/media/tractor.png": "/silos-r2/static/media/tractor.7e6003954c9699242ae8.png",
+    "static/media/logo.png": "/silos-r2/static/media/logo.4df5beebb263ddf7808a.png",
+    "index.html": "/silos-r2/index.html",
+    "main.421909f6.css.map": "/silos-r2/static/css/main.421909f6.css.map",
+    "main.0a199d0b.js.map": "/silos-r2/static/js/main.0a199d0b.js.map",
+    "787.deb36ba5.chunk.js.map": "/silos-r2/static/js/787.deb36ba5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.421909f6.css",
+    "static/js/main.0a199d0b.js"
+  ]
+}
