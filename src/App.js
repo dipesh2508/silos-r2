@@ -1,7 +1,7 @@
 import './App.css';
 import Navigation from './components/Navigation';
 import Hero from './components/Hero';
-import Cards from './components/Cards';
+import Product from './components/Product';
 
 function App() {
 
@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Navigation />
       <Hero />
-      <Cards />
+      <Product />
       
     </div>
   );

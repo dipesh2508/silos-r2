@@ -27,7 +27,7 @@ const Navigation = () => {
                 </nav>
                 {/* ::Site logo and Name */}
                 <a href="#link" className="flex flex-shrink-0 title-font font-medium items-center md:mb-0">
-                    <img src={logo} className="w-24 h-24 text-white p-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" />
+                    <img src={logo} alt='logo' className="w-24 h-24 text-white p-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" />
                 </a>
             </div>
 
