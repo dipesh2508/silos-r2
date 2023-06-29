@@ -3,7 +3,13 @@ import { Link } from "react-router-dom";
 const Cards = ({ cards }) => {
 
   return (
+    <>
+    <div className="flex justify-center bg-green-100 py-4">
+      
+      <div className="text-xl md:text-6xl font-extrabold text-green-900">Products</div>
+      </div>
     <div className="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-4 bg-green-100">
+      
       {cards.map((card) => (
 
         <div class="grid grid-cols-1  mx-auto md:grid-cols-2 lg:grid-cols-4 md:mx-8 my-4">
@@ -32,6 +38,7 @@ const Cards = ({ cards }) => {
       ))
       }
     </div >
+    </>
   );
 }
 
